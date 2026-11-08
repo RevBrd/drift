@@ -24,6 +24,41 @@ time you use it, and every time you die holding it, the chance it blows up in yo
 and it never comes back down. It also knocks your instruments out for a while, a little longer
 each time. Use it when you have to.
 
+## What's out there
+
+In DRIFT and RIDICULOUS, broken rocks sometimes leave something behind. Fly into it to take it.
+
+| | Pickup | |
+|---|---|---|
+| **F** | Fuel | Fills the tank. Thrust is the only thing that burns it |
+| **R** | Rapid | Fire faster |
+| **P** | Power | Heavier shots that cleave into nearby rocks |
+| **T** | Twin | More barrels |
+| **✦** | Pulse | Re-arms the pulse |
+| **$** | Gem | Points, and nothing else |
+| **↑** | Ship | One more life. In DRIFT, every 20,000 points earns one, carried by the next rock you break |
+
+Each weapon you hold docks your score multiplier, and dying takes them all. Getting stronger
+and scoring well pull against each other for the whole run.
+
+The field doesn't stay simple. Rocks change first, and then things that aren't rocks turn up:
+
+| Wave | Arrives |
+|---|---|
+| 3 | Big rocks |
+| 5 | Iron rocks |
+| 7 | Gravity well |
+| 8 | Large iron rocks |
+| 9 | Solar flare |
+| 11 | Shielded rocks |
+| 13 | Pulsar |
+| 15 | Comet |
+
+You'll find out what each one does when you meet it. CLASSIC and SURVIVAL have none of this:
+there it's just you and the rocks.
+
+Every run ends with a rank, from a ladder of famous fictional pilots. The top one is a secret.
+
 ## Playing
 
 Desktop browser and a keyboard. There are no touch controls.
